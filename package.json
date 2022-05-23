@@ -1,0 +1,23 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "aplicativo node",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rossisneto/nodeApp.git"
+  },
+  "keywords": [
+    "node",
+    "app"
+  ],
+  "author": "Rossi Silverio Neto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rossisneto/nodeApp/issues"
+  },
+  "homepage": "https://github.com/rossisneto/nodeApp#readme"
+}
